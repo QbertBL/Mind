@@ -1,0 +1,2 @@
+# Mind
+game Mind
